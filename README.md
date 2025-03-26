@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Gen AI Based Data Profiling
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
@@ -14,14 +14,15 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+Regulatory reporting in the banking sector requires institutions to submit large volumes of data while ensuring compliance with strict regulatory guidelines. Traditionally, data validation is done manually, which is time-consuming and error-prone.
 
-## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
+This project aims to automate regulatory data validation using Generative AI (LLMs like Gemini/GPT) and machine learning techniques. The system will extract validation rules from regulatory documents (e.g., Federal Reserve's FR Y-14Q guidelines) and validate CSV reports against these rules.
+
+## 🎥 Demo  
+📹 [Video Demo](https://drive.google.com/file/d/1hn_QhhB_k7jhvaceBcKW1lZeC3S5kiKo/view?usp=drive_link)   
 🖼️ Screenshots:
 
-![Screenshot 1](link-to-image)
+![Screenshot 1](https://drive.google.com/file/d/1ZaGvfyvLKqkC4amNy2FUbvy0obc9KDMV/view?usp=drive_link)
 
 ## 💡 Inspiration
 What inspired you to create this project? Describe the problem you're solving.
@@ -56,5 +57,5 @@ Describe the major technical or non-technical challenges your team encountered.
 - 🔹 Other: OpenAI API / Twilio / Stripe
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
+- **Your Name** - [GitHub](https://github.com/saurabh260120) | [LinkedIn](#)
 - **Teammate 2** - [GitHub](#) | [LinkedIn](#)
